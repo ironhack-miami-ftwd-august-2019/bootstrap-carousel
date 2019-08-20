@@ -1,0 +1,25 @@
+.row div{
+    background:khaki;
+    padding:50px;
+}
+
+blockquote {
+    position: fixed;
+    bottom: 0;
+}
+
+.row div.goodpoint {
+    background:thistle;
+}
+
+
+#whatever{
+    }
+
+.parent {
+    display: flex;
+    justify-content: center;
+    width:100%;
+    height:300px;
+    background: teal;
+}
